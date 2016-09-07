@@ -1,0 +1,3 @@
+In this week we were introduced to git. We used git to push pull and commit,
+our tasks to badak and push them to github. We were told to make 11 folders,
+in our os162 repository and 1 additional folder named SandBox.
