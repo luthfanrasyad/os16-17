@@ -17,3 +17,4 @@ drwxr-xr-x  2 luthfan.rasyad StafCS 4096 Sep  7 10:54 week08
 drwxr-xr-x  2 luthfan.rasyad StafCS 4096 Sep  7 10:54 week09
 drwxr-xr-x  2 luthfan.rasyad StafCS 4096 Sep  7 10:55 week10
 /home/fasilkom/mahasiswa/l/luthfan.rasyad/os162/week01
+Today is 07 Sep 2016 at 14:11:21
