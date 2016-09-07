@@ -1,0 +1,4 @@
+In week00 we were told to make several accounts,
+which were google and github accounts that we will use thoughout the course.
+After that we were told to make a home folder in badak.cs.ui.ac.id.
+The last task was to reply to the week00 forum to prove our existence.
